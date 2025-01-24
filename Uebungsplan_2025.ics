@@ -5,69 +5,59 @@ BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250125T200000
 DTEND:20250125T220000
-DESCRIPTION:Jahreshauptversammlung
-Übungsleiter: Markus
+DESCRIPTION:Jahreshauptversammlung (Übungsleiter: Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250216T100000
 DTEND:20250216T120000
-DESCRIPTION:UVV / Gefahren an der Einsatzstelle  (Anschließend: gemeinsames Frühstück)
-Übungsleiter: Markus
+DESCRIPTION:UVV / Gefahren an der Einsatzstelle  (Anschließend: gemeinsames Frühstück) (Übungsleiter: Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250316T100000
 DTEND:20250316T120000
-DESCRIPTION:Schwerpunkt: Knoten/Stiche
-Übungsleiter: Moritz/Thomas R./Peter
+DESCRIPTION:Schwerpunkt: Knoten/Stiche (Übungsleiter: Moritz/Thomas R./Peter)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250406T100000
 DTEND:20250406T120000
-DESCRIPTION:Schwerpunkt: Technische Hilfe
-Übungsleiter: Nico R./Niklas/Markus
+DESCRIPTION:Schwerpunkt: Technische Hilfe (Übungsleiter: Nico R./Niklas/Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250418T150000
 DTEND:20250418T170000
-DESCRIPTION:Frühjahrsputz Fahrzeuge/Gebäude 
-Übungsleiter: Markus
+DESCRIPTION:Frühjahrsputz Fahrzeuge/Gebäude  (Übungsleiter: Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Absicherung Maitag
 DTSTART;VALUE=DATE:20250430
-DESCRIPTION:Absicherung Maitag
-Übungsleiter: Markus
+DESCRIPTION:Absicherung Maitag (Übungsleiter: Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250510T180000
 DTEND:20250510T200000
-DESCRIPTION:FwDV 3 Schwerpunkt: Offenes Gewässer/Brandweiher
-Übungsleiter: Johannes/Daniel/Markus
+DESCRIPTION:FwDV 3 Schwerpunkt: Offenes Gewässer/Brandweiher (Übungsleiter: Johannes/Daniel/Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aufbau Vatertagsfest 
 DTSTART:20250524T160000
 DTEND:20250524T180000
-DESCRIPTION:Aufbau Vatertagsfest 
-Übungsleiter: Alle
+DESCRIPTION:Aufbau Vatertagsfest  (Übungsleiter: Alle)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vatertagsfest
 DTSTART;VALUE=DATE:20250529
-DESCRIPTION:Vatertagsfest
-Übungsleiter: Alle
+DESCRIPTION:Vatertagsfest (Übungsleiter: Alle)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250614T180000
 DTEND:20250614T200000
-DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz
-Übungsleiter: Thomas Z./Felix/Peter
+DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz (Übungsleiter: Thomas Z./Felix/Peter)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrfest Berzdorf
@@ -83,29 +73,25 @@ BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250820T100000
 DTEND:20250820T120000
-DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz
-Übungsleiter: Christian/Noah/Markus
+DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz (Übungsleiter: Christian/Noah/Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250822T180000
 DTEND:20250822T200000
-DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr
-Übungsleiter: Markus
+DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr (Übungsleiter: Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250823T180000
 DTEND:20250823T200000
-DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr
-Übungsleiter: Markus
+DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr (Übungsleiter: Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250912T190000
 DTEND:20250912T210000
-DESCRIPTION:Gemeinschaftsübung mit FFW Pickließem
-Übungsleiter: Markus/Peter
+DESCRIPTION:Gemeinschaftsübung mit FFW Pickließem (Übungsleiter: Markus/Peter)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mehrtagesfahrt nach Mainz
@@ -125,29 +111,25 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orientierungsübung Eisenschmitt
 DTSTART;VALUE=DATE:20251004
-DESCRIPTION:Orientierungsübung Eisenschmitt
-Übungsleiter: Thomas R./Peter
+DESCRIPTION:Orientierungsübung Eisenschmitt (Übungsleiter: Thomas R./Peter)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20251012T100000
 DTEND:20251012T120000
-DESCRIPTION:FwDV 10 Schwerpunkt: Leitern
-Übungsleiter: Nico R./Louis/Markus
+DESCRIPTION:FwDV 10 Schwerpunkt: Leitern (Übungsleiter: Nico R./Louis/Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St. Martinsumzug
 DTSTART:20251110T170000
 DTEND:20251110T190000
-DESCRIPTION:St. Martinsumzug
-Übungsleiter: Markus
+DESCRIPTION:St. Martinsumzug (Übungsleiter: Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20251115T180000
 DTEND:20251115T200000
-DESCRIPTION:Jahresabschlussübung
-Übungsleiter: Markus/Peter
+DESCRIPTION:Jahresabschlussübung (Übungsleiter: Markus/Peter)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nikolausmarkt
