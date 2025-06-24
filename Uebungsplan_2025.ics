@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
 DTSTART:20250614T180000
 DTEND:20250614T200000
-DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz (Übungsleiter: Thomas Z./Felix/Peter)
+DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz (Übungsleiter: Christian/Noah/Markus)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrfest Berzdorf
@@ -83,9 +83,9 @@ DESCRIPTION:Geburtstag Thommy Aneka
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
-DTSTART:20250820T100000
-DTEND:20250820T120000
-DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz (Übungsleiter: Christian/Noah/Markus)
+DTSTART:20250720T100000
+DTEND:20250720T120000
+DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz (Übungsleiter: Thomas Z./Felix/Peter)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Feuerwehrübung
