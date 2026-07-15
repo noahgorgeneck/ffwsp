@@ -1,161 +1,236 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Übungsplan 2025//DE
+
 BEGIN:VEVENT
+UID:a47a9406-6085-42ed-8f13-beab8f644a07@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250125T200000
 DTEND:20250125T220000
 DESCRIPTION:Jahreshauptversammlung (Übungsleiter: Markus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:ca08be59-6775-4398-bbe0-002897aaac50@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250216T100000
 DTEND:20250216T120000
-DESCRIPTION:UVV / Gefahren an der Einsatzstelle  (Anschließend: gemeinsames Frühstück) (Übungsleiter: Markus)
+DESCRIPTION:UVV / Gefahren an der Einsatzstelle  (Anschließend: gemeinsa
+ mes Frühstück) (Übungsleiter: Markus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:f9fd3c9f-dc1f-4b08-9c30-47b110d6b214@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250316T100000
 DTEND:20250316T120000
-DESCRIPTION:Schwerpunkt: Knoten/Stiche (Übungsleiter: Moritz/Thomas R./Peter)
+DESCRIPTION:Schwerpunkt: Knoten/Stiche (Übungsleiter: Moritz/Thomas R./P
+ eter)
 END:VEVENT
+
 BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20250406T100000
-DTEND:20250406T120000
-DESCRIPTION:Schwerpunkt: Technische Hilfe (Übungsleiter: Nico R./Niklas/Markus)
-END:VEVENT
-BEGIN:VEVENT
+UID:80d61636-1e80-42b0-9e0d-69baa2aa3bb6@ffwsp
 SUMMARY:Umwelttag
 DTSTART:20250405T090000
 DTEND:20250405T120000
 DESCRIPTION:leiter: Umwelttag
 END:VEVENT
+
 BEGIN:VEVENT
+UID:9cdc7d09-edd5-45ca-868d-313d554aea69@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20250406T100000
+DTEND:20250406T120000
+DESCRIPTION:Schwerpunkt: Technische Hilfe (Übungsleiter: Nico R./Niklas/
+ Markus)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:287a43ec-60fb-4acf-ba5e-ca63ba1f3980@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250418T150000
 DTEND:20250418T170000
 DESCRIPTION:Frühjahrsputz Fahrzeuge/Gebäude  (Übungsleiter: Markus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:9a9b22a9-51ea-4ac7-9e60-87a1377a9ec6@ffwsp
 SUMMARY:Absicherung Maitag
 DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
 DESCRIPTION:Absicherung Maitag (Übungsleiter: Markus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:08c409df-7568-46e0-91f3-49bdd4f1e24a@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250510T180000
 DTEND:20250510T200000
-DESCRIPTION:FwDV 3 Schwerpunkt: Offenes Gewässer/Brandweiher (Übungsleiter: Johannes/Daniel/Markus)
+DESCRIPTION:FwDV 3 Schwerpunkt: Offenes Gewässer/Brandweiher (Übungslei
+ ter: Johannes/Daniel/Markus)
 END:VEVENT
+
 BEGIN:VEVENT
-SUMMARY:Aufbau Vatertagsfest 
-DTSTART:20250524T160000
-DTEND:20250524T180000
-DESCRIPTION:Aufbau Vatertagsfest  (Übungsleiter: Alle)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vatertagsfest
-DTSTART;VALUE=DATE:20250529
-DESCRIPTION:Vatertagsfest (Übungsleiter: Alle)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20250614T180000
-DTEND:20250614T200000
-DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz (Übungsleiter: Christian/Noah/Markus)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feuerwehrfest Berzdorf
-DTSTART;VALUE=DATE:20250628
-DESCRIPTION:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feuerwehrfest Berzdorf
-DTSTART;VALUE=DATE:20250629
-DESCRIPTION:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf
-END:VEVENT
-BEGIN:VEVENT
+UID:42af29a6-d089-4588-8267-ebadf9cd8fab@ffwsp
 SUMMARY: Geburtstag Thommy Aneka
 DTSTART:20250517T190000
 DTEND:20250517T210000
 DESCRIPTION:Geburtstag Thommy Aneka
 END:VEVENT
+
 BEGIN:VEVENT
+UID:10ba979c-31d0-454e-b0e6-fdc897de46af@ffwsp
+SUMMARY:Aufbau Vatertagsfest 
+DTSTART:20250524T160000
+DTEND:20250524T180000
+DESCRIPTION:Aufbau Vatertagsfest  (Übungsleiter: Alle)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:de7193ec-eab1-41b9-b5fa-b2234b9e08d0@ffwsp
+SUMMARY:Vatertagsfest
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250530
+DESCRIPTION:Vatertagsfest (Übungsleiter: Alle)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:08ff5492-3d72-4721-a51b-db1d716ce970@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20250614T180000
+DTEND:20250614T200000
+DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz (Übungsleiter: Christian/N
+ oah/Markus)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5dd34dac-9f29-4c94-9f05-1b94312c0f0c@ffwsp
+SUMMARY:Feuerwehrfest Berzdorf
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+DESCRIPTION:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf
+END:VEVENT
+
+BEGIN:VEVENT
+UID:acb1ac6a-7a50-45c0-9099-74891ae5d598@ffwsp
+SUMMARY:Feuerwehrfest Berzdorf
+DTSTART;VALUE=DATE:20250629
+DTEND;VALUE=DATE:20250630
+DESCRIPTION:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a15bd383-a672-4aba-b62e-36df90c3a6b4@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250720T100000
 DTEND:20250720T120000
-DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz (Übungsleiter: Thomas Z./Felix/Peter)
+DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz (Übungsleiter: Thomas Z./Feli
+ x/Peter)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:fee33294-d917-47cb-b85d-ab3ae9e7d54a@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250822T180000
 DTEND:20250822T200000
-DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr (Übungsleiter: Markus)
+DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr (Übungsleit
+ er: Markus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:fda48506-6daf-47d9-9c0a-854dd24e7299@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250823T180000
 DTEND:20250823T200000
-DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr (Übungsleiter: Markus)
+DESCRIPTION:Berufsfeuerwehrtage bis Sa. 13. August 18:00 Uhr (Übungsleit
+ er: Markus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:7262e402-127b-42d5-8e60-4efff38ad7bb@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20250912T190000
 DTEND:20250912T210000
-DESCRIPTION:Gemeinschaftsübung mit FFW Pickließem (Übungsleiter: Markus/Peter)
+DESCRIPTION:Gemeinschaftsübung mit FFW Pickließem (Übungsleiter: Marku
+ s/Peter)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:35df09b4-58a8-4568-94d1-99cec2636b72@ffwsp
 SUMMARY:Mehrtagesfahrt nach Mainz
 DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
 DESCRIPTION:Mehrtagesfahrt nach Mainz
 END:VEVENT
+
 BEGIN:VEVENT
+UID:ee7a3d67-6c5c-4077-bf60-2beb4666357c@ffwsp
 SUMMARY:Mehrtagesfahrt nach Mainz
 DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
 DESCRIPTION:Mehrtagesfahrt nach Mainz
 END:VEVENT
+
 BEGIN:VEVENT
+UID:764f735d-7af6-4520-ba47-74a82a9ae94f@ffwsp
 SUMMARY:Mehrtagesfahrt nach Mainz
 DTSTART;VALUE=DATE:20250921
+DTEND;VALUE=DATE:20250922
 DESCRIPTION:Mehrtagesfahrt nach Mainz
 END:VEVENT
+
 BEGIN:VEVENT
+UID:3bf06e24-3da3-4ddf-b42b-bacf6ff07794@ffwsp
 SUMMARY:Orientierungsübung Eisenschmitt
 DTSTART;VALUE=DATE:20251004
-DESCRIPTION:Orientierungsübung Eisenschmitt (Übungsleiter: Thomas R./Peter)
+DTEND;VALUE=DATE:20251005
+DESCRIPTION:Orientierungsübung Eisenschmitt (Übungsleiter: Thomas R./Pe
+ ter)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:cb5e85a9-5a1f-4425-9bde-d333c9a5a0a9@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20251012T100000
 DTEND:20251012T120000
-DESCRIPTION:FwDV 10 Schwerpunkt: Leitern (Übungsleiter: Nico R./Louis/Markus)
+DESCRIPTION:FwDV 10 Schwerpunkt: Leitern (Übungsleiter: Nico R./Louis/Ma
+ rkus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:c9e488df-7cb8-4ee8-aa94-db455786f2c5@ffwsp
 SUMMARY:St. Martinsumzug
 DTSTART:20251110T170000
 DTEND:20251110T190000
 DESCRIPTION:St. Martinsumzug (Übungsleiter: Markus)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:a678bab7-97d9-4a7a-9d5a-9df1e38b8e76@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20251115T180000
 DTEND:20251115T200000
 DESCRIPTION:Jahresabschlussübung (Übungsleiter: Markus/Peter)
 END:VEVENT
+
 BEGIN:VEVENT
+UID:ce68cb52-7894-4506-a128-8977016855d7@ffwsp
 SUMMARY:Nikolausmarkt
 DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
 DESCRIPTION:Nikolausmarkt
 END:VEVENT
+
 BEGIN:VEVENT
+UID:5a431423-6603-4d0d-97d0-ab86a210c511@ffwsp
 SUMMARY:Nikolausmarkt
 DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
 DESCRIPTION:Nikolausmarkt
 END:VEVENT
 
-
 BEGIN:VEVENT
+UID:bbdaf0d4-9580-41f0-b764-84bcdf0e6e99@ffwsp
 SUMMARY:Feuerwehrübung
 DTSTART:20260110T200000
 DTEND:20260110T220000
@@ -163,162 +238,7 @@ DESCRIPTION:Jahreshauptversammlung | Übungsleiter: Markus
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20260118T100000
-DTEND:20260118T120000
-DESCRIPTION:UVV / Gefahren an der Einsatzstelle (Anschließend: gemeinsames Frühstück) | Übungsleiter: Markus
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Absicherung Fastnachtsumzug
-DTSTART:20260131T140000
-DTEND:20260131T160000
-DESCRIPTION:Absicherung Fastnachtsumzug | Übungsleiter: Markus
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20260208T100000
-DTEND:20260208T120000
-DESCRIPTION:Schwerpunkt: Knoten/Stiche | Übungsleiter: Peter/Thomas/Moritz
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20260308T100000
-DTEND:20260308T120000
-DESCRIPTION:Schwerpunkt: Technische Hilfe/Hochwasser | Übungsleiter: Markus/Nico/Sven
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Frühjahrsputz Fahrzeuge/Gebäude
-DTSTART:20260403T150000
-DTEND:20260403T170000
-DESCRIPTION:Frühjahrsputz Fahrzeuge/Gebäude | Übungsleiter: Markus/Thomas Z.
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20260419T100000
-DTEND:20260419T120000
-DESCRIPTION:Schwerpunkt: Funk | Übungsleiter: Peter/Thomas/Thomas Reschke
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Absicherung Maitag
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-DESCRIPTION:Absicherung Maitag | Übungsleiter: Markus
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Aufbau Vatertagsfest
-DTSTART:20260509T180000
-DTEND:20260509T200000
-DESCRIPTION:Aufbau Vatertagsfest | Übungsleiter: Markus
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Vatertagsfest
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-DESCRIPTION:Vatertagsfest | Übungsleiter: Markus
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20260523T180000
-DTEND:20260523T200000
-DESCRIPTION:FwDV 3 Schwerpunkt: Offenes Gewässer | Übungsleiter: Markus/Johannes/Daniel
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20260613T160000
-DTEND:20260613T200000
-DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz gemeinsam mit Bambini u. JFw, anschl. Helferfest | Übungsleiter: Markus/Peter/Johannes/Mika
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz, anschl. Grillen und Feuerwerk | Übungsleiter: Markus/Nico/Dominic N.
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260713
-DESCRIPTION:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf | Übungsleiter: Markus/Peter
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Gemeinschaftsübung mit FFW Pickließem | Übungsleiter: Markus/Peter
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:50 Jahre Jugendfeuerwehr
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:50 Jahre Jugendfeuerwehr | Übungsleiter:
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Leistungsnachweis AGT
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-DESCRIPTION:Leistungsnachweis AGT | Übungsleiter:
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260913
-DESCRIPTION:Berufsfeuerwehrtage bis Sa. 18:00 Uhr | Übungsleiter: Markus/Peter/Nico
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Orientierungsübung Eisenschmitt
-DTSTART:20261003T140000
-DTEND:20261003T160000
-DESCRIPTION:Orientierungsübung Eisenschmitt | Übungsleiter: Peter/Thomas R.
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DESCRIPTION:FwDV 10 Schwerpunkt: Leitern | Übungsleiter: Johannes/Thomas Z./Noah
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:St. Martinsumzug
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-DESCRIPTION:St. Martinsumzug | Übungsleiter:
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Leistungsnachweis AGT
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-DESCRIPTION:Leistungsnachweis AGT | Übungsleiter:
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Feuerwehrübung
-DTSTART:20261121T160000
-DTEND:20261121T180000
-DESCRIPTION:Jahresabschlussübung | Übungsleiter: Markus/Peter/Johannes/Nico
-END:VEVENT
-
-
-
-BEGIN:VEVENT
+UID:d758074d-55e4-4771-91dd-8191b871a200@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260113T183000
 DTEND:20260113T203000
@@ -326,13 +246,42 @@ DESCRIPTION:Fahrzeug und Geräteprüfung
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Gerätedienst FFW
-DTSTART:20260127T183000
-DTEND:20260127T203000
-DESCRIPTION:Fahrzeug und Geräteprüfung – Stromaggregat + Gerätehaus Einspeisung
+UID:1de300fb-4d11-46af-9390-f9ac171459b7@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20260118T100000
+DTEND:20260118T120000
+DESCRIPTION:UVV / Gefahren an der Einsatzstelle (Anschließend: gemeinsam
+ es Frühstück) | Übungsleiter: Markus
 END:VEVENT
 
 BEGIN:VEVENT
+UID:69397da3-ffa0-4f82-8fac-a31dfae710ee@ffwsp
+SUMMARY:Gerätedienst FFW
+DTSTART:20260127T183000
+DTEND:20260127T203000
+DESCRIPTION:Fahrzeug und Geräteprüfung – Stromaggregat + Gerätehaus 
+ Einspeisung
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3a358d41-07c4-4317-997e-1d88817816ab@ffwsp
+SUMMARY:Absicherung Fastnachtsumzug
+DTSTART:20260131T140000
+DTEND:20260131T160000
+DESCRIPTION:Absicherung Fastnachtsumzug | Übungsleiter: Markus
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20168f73-da32-4032-9561-5891d599836c@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20260208T100000
+DTEND:20260208T120000
+DESCRIPTION:Schwerpunkt: Knoten/Stiche | Übungsleiter: Peter/Thomas/Mori
+ tz
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bb775f15-6a7a-4bd1-be2f-12742ed85e47@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260210T183000
 DTEND:20260210T203000
@@ -340,6 +289,7 @@ DESCRIPTION:Gebäude und Sonstiges – Fenster Ölen
 END:VEVENT
 
 BEGIN:VEVENT
+UID:22819d0e-b3fe-4850-a567-6fe6df88d569@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260224T183000
 DTEND:20260224T203000
@@ -347,6 +297,16 @@ DESCRIPTION:Hydranten Kontrolle und Pflege
 END:VEVENT
 
 BEGIN:VEVENT
+UID:1c193bf1-4417-474e-8802-0e54a6cea5b1@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20260308T100000
+DTEND:20260308T120000
+DESCRIPTION:Schwerpunkt: Technische Hilfe/Hochwasser | Übungsleiter: Mar
+ kus/Nico/Sven
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2dbb3f7f-1d8b-498a-8ccb-098485764745@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260310T183000
 DTEND:20260310T203000
@@ -354,6 +314,7 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Tragkraftspritze
 END:VEVENT
 
 BEGIN:VEVENT
+UID:7af7b32a-9ef9-461a-909c-045b03fa3efe@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260324T183000
 DTEND:20260324T203000
@@ -361,6 +322,16 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Nasssauger + Ventilator
 END:VEVENT
 
 BEGIN:VEVENT
+UID:60dc58af-8521-49f0-b124-02cc49e7611d@ffwsp
+SUMMARY:Frühjahrsputz Fahrzeuge/Gebäude
+DTSTART:20260403T150000
+DTEND:20260403T170000
+DESCRIPTION:Frühjahrsputz Fahrzeuge/Gebäude | Übungsleiter: Markus/Tho
+ mas Z.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c66ac626-ad71-496e-adea-f650c722d2b4@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260407T183000
 DTEND:20260407T203000
@@ -368,6 +339,16 @@ DESCRIPTION:Gebäude und Sonstiges
 END:VEVENT
 
 BEGIN:VEVENT
+UID:746d0861-96da-4f05-be0c-bf792a7d2b9e@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20260419T100000
+DTEND:20260419T120000
+DESCRIPTION:Schwerpunkt: Funk | Übungsleiter: Peter/Thomas/Thomas Reschk
+ e
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fd19e08a-d70c-4c79-8d8d-243272598b49@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260421T183000
 DTEND:20260421T203000
@@ -375,6 +356,23 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – TSF + Beladung prüfen
 END:VEVENT
 
 BEGIN:VEVENT
+UID:09f5b3e7-0f63-43ee-93c2-3c059411b71e@ffwsp
+SUMMARY:Umwelttag
+DTSTART:20260425T090000
+DTEND:20260425T120000
+DESCRIPTION:Unwelttag mit Airbase
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f10e76b9-c1c0-4e1d-b328-0367d8c6a818@ffwsp
+SUMMARY:Absicherung Maitag
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+DESCRIPTION:Absicherung Maitag | Übungsleiter: Markus
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a306f08a-b6f4-4b2d-b691-1c224708d993@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260505T183000
 DTEND:20260505T203000
@@ -382,6 +380,23 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Stromaggregat
 END:VEVENT
 
 BEGIN:VEVENT
+UID:4b5934e8-b19f-4446-9072-1dd140fc5d8c@ffwsp
+SUMMARY:Aufbau Vatertagsfest
+DTSTART:20260509T180000
+DTEND:20260509T200000
+DESCRIPTION:Aufbau Vatertagsfest | Übungsleiter: Markus
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e6c28e20-2385-4906-9dd7-d84adf8bb711@ffwsp
+SUMMARY:Vatertagsfest
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+DESCRIPTION:Vatertagsfest | Übungsleiter: Markus
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3266a6b9-ad42-4df1-9f60-dc492d4f71d3@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260519T183000
 DTEND:20260519T203000
@@ -389,6 +404,16 @@ DESCRIPTION:Gebäude und Sonstiges
 END:VEVENT
 
 BEGIN:VEVENT
+UID:f9008293-c165-4a8f-b567-77f9bb725097@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20260523T180000
+DTEND:20260523T200000
+DESCRIPTION:FwDV 3 Schwerpunkt: Offenes Gewässer | Übungsleiter: Markus
+ /Johannes/Daniel
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d0134a25-a519-41a8-b9d9-542396ac7049@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260602T183000
 DTEND:20260602T203000
@@ -396,6 +421,16 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Tragkraftspritze
 END:VEVENT
 
 BEGIN:VEVENT
+UID:1c597236-f0c5-47f7-8709-7330fb1f2756@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20260613T160000
+DTEND:20260613T200000
+DESCRIPTION:FwDV 4 Schwerpunkt: Löscheinsatz gemeinsam mit Bambini u. JF
+ w\, anschl. Helferfest | Übungsleiter: Markus/Peter/Johannes/Mika
+END:VEVENT
+
+BEGIN:VEVENT
+UID:56492d98-c239-442b-9a57-0687918ec363@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260616T183000
 DTEND:20260616T203000
@@ -403,6 +438,7 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Nasssauger + Ventilator
 END:VEVENT
 
 BEGIN:VEVENT
+UID:545d7ce8-cbd5-42f8-82ec-1e02aa19bd2c@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260630T183000
 DTEND:20260630T203000
@@ -410,6 +446,25 @@ DESCRIPTION:Gebäude und Sonstiges
 END:VEVENT
 
 BEGIN:VEVENT
+UID:6112320c-fab0-44fc-9e4a-93a8da76df27@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:FwDV 7 Schwerpunkt: Atemschutz\, anschl. Grillen und Feuerwer
+ k | Übungsleiter: Markus/Nico/Dominic N.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5a50da94-48a9-4125-9e79-ba3e7f5dbe1c@ffwsp
+SUMMARY:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260713
+DESCRIPTION:Mehrtagesfahrt zum Feuerwehrfest nach Berzdorf | Übungsleite
+ r: Markus/Peter
+END:VEVENT
+
+BEGIN:VEVENT
+UID:d34ec28f-7751-4250-87e6-10f6dda59578@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260714T183000
 DTEND:20260714T203000
@@ -417,6 +472,7 @@ DESCRIPTION:Hydranten Kontrolle und Pflege
 END:VEVENT
 
 BEGIN:VEVENT
+UID:0f6f9a1e-28e7-43b1-90b7-d02a1e26a24b@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260728T183000
 DTEND:20260728T203000
@@ -424,13 +480,25 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – TSF + Beladung prüfen
 END:VEVENT
 
 BEGIN:VEVENT
+UID:2291b325-5d8f-435f-8f12-6b188555928f@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260811T183000
 DTEND:20260811T203000
-DESCRIPTION:Fahrzeug und Geräteprüfung – Stromaggregat + Gerätehaus Einspeisung
+DESCRIPTION:Fahrzeug und Geräteprüfung – Stromaggregat + Gerätehaus 
+ Einspeisung
 END:VEVENT
 
 BEGIN:VEVENT
+UID:3e228766-60f7-4173-bac7-1b7a75571b31@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20260821T190000
+DTEND:20260821T210000
+DESCRIPTION:Gemeinschaftsübung mit FFW Pickließem | Übungsleiter: Mark
+ us/Peter
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e10f047f-d1f8-47d1-9db6-187509b3aae7@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260825T183000
 DTEND:20260825T203000
@@ -438,6 +506,23 @@ DESCRIPTION:Gebäude und Sonstiges
 END:VEVENT
 
 BEGIN:VEVENT
+UID:38d6a372-150c-4eb6-8e66-e5b08341e730@ffwsp
+SUMMARY:50 Jahre Jugendfeuerwehr
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:50 Jahre Jugendfeuerwehr | Übungsleiter:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0e875e5c-4f3a-4cb1-8075-e132fa03620c@ffwsp
+SUMMARY:Leistungsnachweis AGT
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+DESCRIPTION:Leistungsnachweis AGT | Übungsleiter:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ba3db7ef-b359-4154-b83b-b365763af8a6@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260908T183000
 DTEND:20260908T203000
@@ -445,6 +530,16 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Tragkraftspritze
 END:VEVENT
 
 BEGIN:VEVENT
+UID:59e7f6b6-785c-43be-b74c-4ce4e459b973@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260913
+DESCRIPTION:Berufsfeuerwehrtage bis Sa. 18:00 Uhr | Übungsleiter: Markus
+ /Peter/Nico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3cedc89c-f57e-42a7-ba5d-fcd9243a1f34@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20260922T183000
 DTEND:20260922T203000
@@ -452,6 +547,16 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Nasssauger + Ventilator
 END:VEVENT
 
 BEGIN:VEVENT
+UID:aed4ad7e-424a-41e7-81b8-9ffeeff8c49c@ffwsp
+SUMMARY:Orientierungsübung Eisenschmitt
+DTSTART:20261003T140000
+DTEND:20261003T160000
+DESCRIPTION:Orientierungsübung Eisenschmitt | Übungsleiter: Peter/Thoma
+ s R.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a4f39594-9ca1-4ad6-8b11-daf05ec570fa@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20261006T183000
 DTEND:20261006T203000
@@ -459,6 +564,16 @@ DESCRIPTION:Gebäude und Sonstiges
 END:VEVENT
 
 BEGIN:VEVENT
+UID:ce78e281-1cac-4ae0-b78b-8bb24a55c4cc@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DESCRIPTION:FwDV 10 Schwerpunkt: Leitern | Übungsleiter: Johannes/Thomas
+  Z./Noah
+END:VEVENT
+
+BEGIN:VEVENT
+UID:98397324-13d8-47ce-bbcb-d8bfa7c27a82@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20261020T183000
 DTEND:20261020T203000
@@ -466,13 +581,32 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – TSF + Beladung prüfen
 END:VEVENT
 
 BEGIN:VEVENT
+UID:6cdad46f-6a80-4273-9cdc-fe0cd7ea8254@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20261103T183000
 DTEND:20261103T203000
-DESCRIPTION:Fahrzeug und Geräteprüfung – Stromaggregat + Gerätehaus Einspeisung
+DESCRIPTION:Fahrzeug und Geräteprüfung – Stromaggregat + Gerätehaus 
+ Einspeisung
 END:VEVENT
 
 BEGIN:VEVENT
+UID:a5503ae6-dff4-4a73-894c-4ba2b0464d75@ffwsp
+SUMMARY:St. Martinsumzug
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DESCRIPTION:St. Martinsumzug | Übungsleiter:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:68f4120c-2c90-4658-bce6-74226ac86ded@ffwsp
+SUMMARY:Leistungsnachweis AGT
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DESCRIPTION:Leistungsnachweis AGT | Übungsleiter:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1a4caac6-4839-4cb9-a069-8fcd401f610b@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20261117T183000
 DTEND:20261117T203000
@@ -480,6 +614,16 @@ DESCRIPTION:Gebäude und Sonstiges
 END:VEVENT
 
 BEGIN:VEVENT
+UID:b9c4d711-016a-4c1b-add0-9afd85b2b9fa@ffwsp
+SUMMARY:Feuerwehrübung
+DTSTART:20261121T160000
+DTEND:20261121T180000
+DESCRIPTION:Jahresabschlussübung | Übungsleiter: Markus/Peter/Johannes/
+ Nico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5702ea2d-c8e9-49cb-8102-9d19e63d83a2@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20261201T183000
 DTEND:20261201T203000
@@ -487,6 +631,7 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Tragkraftspritze
 END:VEVENT
 
 BEGIN:VEVENT
+UID:03fa1502-6812-4514-9aaf-8483b9031d34@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20261215T183000
 DTEND:20261215T203000
@@ -494,17 +639,11 @@ DESCRIPTION:Fahrzeug und Geräteprüfung – Nasssauger + Ventilator
 END:VEVENT
 
 BEGIN:VEVENT
+UID:aa4d9a6c-68ea-49e5-9a57-5a8818708af7@ffwsp
 SUMMARY:Gerätedienst FFW
 DTSTART:20261229T183000
 DTEND:20261229T203000
 DESCRIPTION:Gebäude und Sonstiges
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Umwelttag
-DTSTART:20260425T090000
-DTEND:20260425T120000
-DESCRIPTION:Unwelttag mit Airbase
 END:VEVENT
 
 END:VCALENDAR
